@@ -1,4 +1,4 @@
-# HECPG: Hyperbolic Embedding and Confident Patch-Guided Network for Point Cloud Matching (TGRS 2023)
+# HECPG: Hyperbolic Embedding and Confident Patch-Guided Network for Point Cloud Matching (TGRS 2024)
 PyTorch implementation of the paper:
 [HECPG: Hyperbolic Embedding and Confident Patch-Guided Network for Point Cloud Matching](https://ieeexplore.ieee.org/document/10445523).
 
